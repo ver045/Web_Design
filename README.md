@@ -1,6 +1,6 @@
 # Web_Design
 
-This web design was designed to help analyze how weather changes as you get closer to the equator.
+This dashboard was designed to help analyze how weather changes as you get closer to the equator.
 To create this analysis, I first pulled the data from the OpenWeatherMap to assemble a dataset on
 over five hundred cities. After assembling the dataset, Matplotlib was utilized to plot various aspects
 to the weather vs. lattitude. This included factors such as temperature, cloudiness, windspeed, and humidity. 
